@@ -1,8 +1,14 @@
-# React + Vite
+**`Ecommerce Shop`**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+On Ebuy you can buy your favourite things
 
-Currently, two official plugins are available:
+**`Created Using`**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+FakeShopAPI
+<br></br>
+
+**`What I've Learnt`**
++ ***New design ideas***
++ ***Improved creating shopping cart***
